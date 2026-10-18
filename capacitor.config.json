@@ -1,0 +1,8 @@
+{
+  "appId": "pl.formlab.app",
+  "appName": "FORM LAB",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
